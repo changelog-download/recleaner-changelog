@@ -1,6 +1,6 @@
 # RECLEANER© 2024
 
-## 📥 Скачать
+## 📥 Скачааать можно здесь
 
 - GitHub Releases: [Перейти](https://github.com/changelog-download/recleaner-changelog/releases/tag/V2.1)
 
