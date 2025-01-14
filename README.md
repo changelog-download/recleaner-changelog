@@ -18,3 +18,5 @@
 
 - Discord: [Присоединиться к серверу](https://discord.gg/uMjN6xrDjM)
 - VK: [Официальная группа VK](https://vk.com/recleaner_official)
+
+  #recleaner #RECLEANER #реклинер #гит #github
