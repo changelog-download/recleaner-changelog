@@ -2,7 +2,7 @@
 
 ## 📥 Скачать можно здесь
 
-- GitHub Releases: [Перейти](https://github.com/changelog-download/recleaner-changelog/releases/tag/v1.0)
+- GitHub Releases: [Перейти](https://github.com/changelog-download/recleaner-changelog/releases/tag/recleaner)
 
 ## 🚀 ВОЗМОЖНОСТИ RECLEANER.
 
